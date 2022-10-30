@@ -2,7 +2,7 @@
 (Note: this is for iOS Only, if you're using Android, look somewhere else)
 
 Step by step guide to installation:
-1: Go to the releases tab
+1: Go to https://github.com/sussyxhxhxh/Fortnite-Mobile/tags
 2: Download the .mobileconfig file for the version you want
 3: Go to settings, then profile downloaded, then install the profile.
 4: Enjoy!
