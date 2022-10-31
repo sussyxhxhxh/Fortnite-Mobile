@@ -14,6 +14,6 @@ Xbox version
 Pros: controller and touch controls support, no queue time, rtx enabled, and infinite play time all for free
 Cons: more lag, and you have to have a microsoft account to play
 
-NVIDIA Version (COMING SOON)
+NVIDIA Version
 Pros: also has controller and touch controls support, less lag, and no microsoft account needed
 Cons: You have to pay money if you want no queue time, rtx enabled, and extended play time
